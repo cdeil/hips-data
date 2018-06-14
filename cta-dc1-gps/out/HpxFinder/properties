@@ -1,0 +1,13 @@
+creator_did          = ivo://MPIK/P/CTA-DC1/meta
+obs_title            = CTA-DC1-meta
+dataproduct_type     = meta
+hips_frame           = galactic
+hips_order           = 3
+hips_release_date    = 2018-05-01T11:58Z
+hips_version         = 1.4
+hips_builder         = Aladin/HipsGen v10.086
+#____FOR_COMPATIBILITY_WITH_OLD_HIPS_CLIENTS____
+label                = CTA-DC1-meta
+coordsys             = G
+maxOrder             = 3
+hips_tile_width      = 512

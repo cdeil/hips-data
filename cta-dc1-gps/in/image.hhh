@@ -1,0 +1,24 @@
+XTENSION= 'IMAGE   '           / Image extension                                
+BITPIX  =                  -32 / array data type                                
+NAXIS   =                    2 / number of array dimensions                     
+NAXIS1  =                 9400                                                  
+NAXIS2  =                  500                                                  
+PCOUNT  =                    0 / number of parameters                           
+GCOUNT  =                    1 / number of groups                               
+WCSAXES =                    2                                                  
+CRPIX1  =               4700.5                                                  
+CRPIX2  =                250.5                                                  
+CDELT1  =                -0.02                                                  
+CDELT2  =                 0.02                                                  
+CUNIT1  = 'deg     '                                                            
+CUNIT2  = 'deg     '                                                            
+CTYPE1  = 'GLON-CAR'                                                            
+CTYPE2  = 'GLAT-CAR'                                                            
+CRVAL1  =                341.0                                                  
+CRVAL2  =                  0.0                                                  
+LONPOLE =                  0.0                                                  
+LATPOLE =                 90.0                                                  
+BUNIT   = ''                                                                    
+EXTNAME = 'sqrt_ts '                                                            
+HDUNAME = 'sqrt_ts '                                                            
+END                                                                             

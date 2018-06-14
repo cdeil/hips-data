@@ -1,0 +1,34 @@
+hips_initial_fov     = 188.0
+hips_initial_ra      = 252.67102
+hips_initial_dec     = -44.47937
+creator_did          = ivo://MPIK/P/CTA-DC1
+hips_overlay         = mean
+hips_hierarchy       = median
+hips_creator         = Christoph Deil
+obs_title            = Simulated GPS CTA
+obs_collection       = CTA-DC1
+obs_description      = This HiPS is a simulated Galactic Plane Survey from the first data challenge of CTA (https://www.cta-observatory.org/).
+obs_regime           = Gamma-ray
+hips_builder         = Aladin/HipsGen v10.086
+hips_version         = 1.4
+hips_release_date    = 2018-05-01T11:58Z
+hips_frame           = galactic
+hips_order           = 3
+hips_order_min       = 0
+hips_tile_width      = 512
+hips_status          = public master clonableOnce
+hips_tile_format     = png
+hips_pixel_scale     = 0.01431
+s_pixel_scale        = 0.02
+dataproduct_type     = image
+dataproduct_subtype  = color
+moc_sky_fraction     = 0.1146
+hips_estsize         = 11179
+hipsgen_date         = 2018-05-01T11:58Z
+hipsgen_params       = in=hips/v1/in out=hips/v1/out color=png hips_frame=galactic creator_did=MPIK/P/CTA-DC1 "hips_creator=Christoph Deil"
+#____FOR_COMPATIBILITY_WITH_OLD_HIPS_CLIENTS____
+label                = CTA-DC1
+coordsys             = G
+maxOrder             = 3
+format               = png
+isColored            = true
