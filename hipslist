@@ -1,0 +1,4 @@
+creator_did          = ivo://MPIK/P/CTA-DC1
+hips_release_date    = 2018-05-01T11:58Z
+hips_service_url     = http://christophdeil.com/hips-data/cta-dc1-gps/out/
+hips_status          = public master clonable
